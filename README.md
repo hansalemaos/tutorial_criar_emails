@@ -18,6 +18,8 @@ Agradeço por assistir e nos vemos no próximo vídeo!
 Espero que essa descrição seja útil para você. Sinta-se à vontade para personalizá-la conforme suas preferências e estilo de apresentação. 
 
 ### pip install gettmpmail a-pandas-ex-dillpickle
+
 https://github.com/hansalemaos/gettmpmail
+
 https://github.com/hansalemaos/a_pandas_ex_dillpickle
 
